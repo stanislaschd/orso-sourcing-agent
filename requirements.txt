@@ -1,0 +1,14 @@
+# Cœur du pipeline
+pandas>=2.0
+python-dotenv>=1.0
+requests>=2.31
+beautifulsoup4>=4.12
+
+# Interface de démo
+streamlit>=1.36
+
+# Fournisseurs LLM (installe au moins l'un des deux)
+anthropic>=0.34
+openai>=1.40
+ddgs
+pypandoc_binary
